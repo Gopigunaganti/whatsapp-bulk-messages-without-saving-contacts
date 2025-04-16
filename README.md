@@ -2,10 +2,6 @@
 
 A Python script that sends WhatsApp messages automatically from WhatsApp web application without saved contact numbers. It reads data from an excel sheet and sends configured messages to recipients.
 
-## Important Note
-
-- WhatsApp Business released API on May 2022, no longer needed this repository. You can accomplish your same requirements through WhatsApp Business APIs.
-
 ## Prerequisites
 
 In order to run the Python script, your system must have the following programs/packages installed:
